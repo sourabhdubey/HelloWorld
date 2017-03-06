@@ -12,14 +12,12 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello world!!!");
         }
-    }
-    class Program1
-    {
         public static void Main()
         {
 
-            Program p = new Program();
-            Program.HelloWorld();
+
+            HelloWorld();
         }
     }
+   
 }
