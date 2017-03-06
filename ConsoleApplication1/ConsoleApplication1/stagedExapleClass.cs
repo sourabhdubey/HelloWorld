@@ -9,7 +9,8 @@ namespace ConsoleApplication1
     class stagedExapleClass
     {
         //comments on staged
-
+        //dfdfdyhh
         //new comments
+        //final comment for staged
     }
 }
